@@ -1,0 +1,22 @@
+/* banner section */
+.banner{
+  text-align: right;
+ 
+  background: url('../images/banner/banner3.png');
+  width: 1600px;
+  height: 808px;
+ }
+.banner-head{
+  padding-top: 300px;
+  padding-right: 350px;
+  color:white;
+  font-size: 60px;
+}
+.banner-paragraph{
+  padding-left: 500px;
+  padding-right: 350px;
+  color: white;
+}
+.btn-primary{
+  padding-right: 100px;
+}
