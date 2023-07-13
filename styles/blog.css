@@ -20,3 +20,20 @@
 .btn-primary{
   padding-right: 100px;
 }
+/* failures section */
+.failures{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.failures-head{
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+}
+.failures-paragraph{
+  color: gray;
+}
+li{
+ color: gray;
+}
