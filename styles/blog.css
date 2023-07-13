@@ -1,4 +1,9 @@
+
+
+
 /* banner section */
+
+
 .banner{
   text-align: right;
  
@@ -20,7 +25,9 @@
 .btn-primary{
   padding-right: 100px;
 }
+
 /* failures section */
+
 .failures{
   display: flex;
   justify-content: space-around;
@@ -28,7 +35,7 @@
 }
 .failures-head{
   color: #151414;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 700;
 }
 .failures-paragraph{
@@ -36,4 +43,16 @@
 }
 li{
  color: gray;
+}
+/* my plans section */
+
+.plan{
+  text-align: center;
+  font-size: 50px;
+}
+.my-plans{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 50px;
 }
