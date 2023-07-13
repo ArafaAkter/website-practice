@@ -49,10 +49,34 @@ li{
 .plan{
   text-align: center;
   font-size: 50px;
+  padding-top: 100px;
+  
 }
 .my-plans{
   display: flex;
   justify-content: space-around;
   align-items: center;
   padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* call section */
+.call{
+  background: url('../images/watch.png');
+  width: 1140px;
+  height: 300px;
+  border-radius: 8px;
+    
+}
+.call-section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.call-heading{
+  padding-top: 60px;
+  padding-left: 60px;
+  color: #FFF;
 }
