@@ -22,8 +22,8 @@
   padding-right: 350px;
   color: white;
 }
-.btn-primary{
-  padding-right: 100px;
+.contact-btn{
+  padding-right: 350px;
 }
 
 /* failures section */
@@ -76,7 +76,35 @@ li{
 
 }
 .call-heading{
-  padding-top: 60px;
+  padding-top: 45px;
   padding-left: 60px;
   color: #FFF;
+}
+.always-headding{
+  font-size: 40px;
+}
+/* footer section */
+.footer{
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+  padding: 100px;
+}
+.headding{
+    color: #FFF;
+}
+input{
+  background: #151414;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 10px;
+
+}
+.btn{
+  color:blue;
+  background:#FFF;
+  border-radius: 10px;
+  margin-top: 5px;
+  padding: 15px 25px;
 }
